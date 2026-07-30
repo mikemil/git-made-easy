@@ -2,6 +2,6 @@
 
 ## course has multiple sections, and mostly easy, starter stuff
 
-### maybe a good starting point - if the next sections pick up the pace.
+### maybe a good starting point - if the next sections pick up the pace
 
 ### making another change
