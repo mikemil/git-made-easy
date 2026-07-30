@@ -5,3 +5,10 @@
 ### maybe a good starting point - if the next sections pick up the pace
 
 ### making another change
+
+```bash
+git clone https://github.com/mikemil/git-made-easy
+
+```
+
+### How to use???
